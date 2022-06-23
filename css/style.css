@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.caja1{
+    width: 500px;
+    height: 500px;
+    color: orchid;
+    border-top: 5px violet solid;
+    border-bottom:5px violet solid;
+    border-left: 8px violet solid;
+    border-right: 8px violet solid;
+    padding: 10px 30px 10px 30px;
+    margin:0;
+    background-image: url(/images/panterarosa.png);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-color:pink;
+    background-position: center;
+}
+h4{
+    font-family: 'Rock Salt', cursive;
+}
+.caja2{
+    width: 500px;
+    height: 500px;
+    color:red;
+    border:5px purple solid;
+    padding: 10x 30px 10px 30px;
+    margin:0;
+    background-image: url(/images/bar.png);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: center;
+    background-color:yellow;
+
+}
+h1{
+    font-family: 'New Rocker', cursive;
+    font-family: 'Rock 3D', cursive;
+    font-family: 'Rock Salt', cursive;
+}
